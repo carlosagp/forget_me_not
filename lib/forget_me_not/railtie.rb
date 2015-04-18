@@ -1,4 +1,4 @@
-require 'view_helpers'
+require 'forget_me_not/view_helpers'
 
 module ForgetMeNot
   class Railtie < Rails::Railtie
